@@ -1,0 +1,27 @@
+.page {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-template-rows: 50%;
+	background-color: orange;
+}
+
+.outside {
+	color: green;
+}
+
+h1 {
+	color: red;
+}
+
+.yellow h1 {
+	color: yellow;
+}
+
+a {
+	color: magenta;
+
+}
+
+
+
+
