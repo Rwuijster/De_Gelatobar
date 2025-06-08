@@ -1,7 +1,11 @@
+html {
+min-height: 100%;
+}
 body {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-template-rows: 25% 25% 25% 25%;
+	min-height: 100%;
 }
 
 	.v1 {
